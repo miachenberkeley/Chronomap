@@ -1,0 +1,8 @@
+import re
+
+a = re.match('xml','hello.xml')
+
+if a:
+    print(a(1), a(2))
+else:
+    print("no")

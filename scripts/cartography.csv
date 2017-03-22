@@ -1,0 +1,360 @@
+134	3	Design framework of the FDINPP	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+135	3	TEPCO unilaterally determine max EGM for safety	1970-01-01 00:00:00	1972-01-01 00:00:00	134
+136	3	FDINPP subject to NSC "Regulatory Guide for Reviewing Seismic Design of Nuclear Power Reactor Facilities"	1981-01-01 00:00:00	2006-01-01 00:00:00	134
+137	3	FDINPP subject to revised NSC Regulatory Guide	2006-01-01 00:00:00	2012-01-01 00:00:00	134
+138	3	Theoric max EGM = 275 Gal	1970-01-01 00:00:00	1981-01-01 00:00:00	134
+139	3	Theoric max EGM = 370 Gal	1981-01-01 00:00:00	2006-01-01 00:00:00	134
+140	3	Theoric max EGM = 600 Gal	2006-01-01 00:00:00	2012-01-01 00:00:00	134
+141	3	Initial seismic vulnerability of the FDINPP (1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	149
+142	3	Assumption that FDINPP in a low seismicity zone (1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	148
+143	2	Attached doc 6 of “Application Document for a Nuclear Reactor Installment License for the Fukushima Nuclear Power Plant" (01/07/1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+144	3	outdated research material	1970-01-01 00:00:00	1971-01-01 00:00:00	148
+145	3	low seismic activity since beginning of observation	1970-01-01 00:00:00	1971-01-01 00:00:00	148
+146	3	Seismic vulerability at the time of the accident 	2011-03-11 00:00:00	2011-03-15 00:00:00	149
+147	3	Approval by authorities (1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	255
+148	3	Earthquake science	1970-01-01 00:00:00	2011-01-01 00:00:00	\N
+149	3	Seismic vulnerability of FDINPP	1970-01-01 00:00:00	2011-01-01 00:00:00	\N
+150	2	Reply of the JAEC Chairman to prime minister (17/11/1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+151	3	Knowledge that FDINPP on high seismicity zone	1975-01-01 00:00:00	2012-01-01 00:00:00	148
+152	3	Lack of communication between nuclear power research and earthquake science research	1975-01-01 00:00:00	2012-01-01 00:00:00	\N
+153	3	turnkey contract between GE and TEPCO for Unit 1 (1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+154	3	Belief that a spanish plant would be built before (cost, experience)	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+155	3	All responsibility on GE	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+156	3	Choice of a BWR (1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	153
+157	3	Shared design responsibilities between GE, GETSCO, EBASCO and Japanese manufacturers (1966)	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+158	3	FDINPP first facility built	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+159	3	Reinforcement of supporting structure	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+160	3	Design specs not respected by GE	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+161	3	Deprivation of space in MARK I type containment vessel	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+162	3	Problems at the beginning of commercial operations	1971-03-26 00:00:00	2012-01-01 00:00:00	\N
+163	3	Stress Corrosion Cracking	1971-03-26 00:00:00	2012-01-01 00:00:00	162
+164	3	Little domestic experience regarding nuclear power	1970-01-01 00:00:00	1975-01-01 00:00:00	\N
+165	3	Few standards/benchmarks for safety review	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+166	3	establishment of the Regulatory Guide for Reviewing Seismic Design	1978-01-01 00:00:00	1979-01-01 00:00:00	\N
+167	3	Mandatory backchecks and reports	1992-01-01 00:00:00	1993-01-01 00:00:00	\N
+170	3	Report of the Results of the Seismic Safety Evaluation	1994-03-01 00:00:00	1994-04-01 00:00:00	\N
+171	3	Seismic safety concluded	1994-03-01 00:00:00	1994-04-01 00:00:00	170
+172	3	Dangeroulsy high stress levels in piping in simulation	1994-03-01 00:00:00	1994-04-01 00:00:00	170
+175	3	Insufficient reliability of simulation codes	1984-01-01 00:00:00	1985-01-01 00:00:00	\N
+176	3	Verification of analysis codes	1984-01-01 00:00:00	1985-01-01 00:00:00	\N
+177	3	Great Hanshin-Awaji Earthquake	1995-01-17 00:00:00	1995-01-18 00:00:00	\N
+178	3	NSC released Revised Regulatory Guide 	2006-09-19 00:00:00	2006-09-20 00:00:00	\N
+179	3	NISA request to perform seismic backcheck	2006-09-20 00:00:00	2006-09-21 00:00:00	\N
+180	3	NISA Backcheck Rule developed	2006-09-20 00:00:00	2006-09-21 00:00:00	\N
+181	3	Niigata Chuetsu Earthquake	2007-07-16 00:00:00	2007-07-17 00:00:00	\N
+182	3	Seismic Backchecks at FDINPP	2007-08-20 00:00:00	2012-01-01 00:00:00	260
+183	3	Report of the results of the review of the work plan for seismic bachckecks	2007-08-20 00:00:00	2007-08-21 00:00:00	182
+184	3	TEPCO interim report of seismic backcheckds on FDINPP5 and FDNNPP4	2008-03-31 00:00:00	2008-04-01 00:00:00	182
+185	3	Interim report on seismic backchecks FDINPP1-4	2009-06-19 00:00:00	2009-06-20 00:00:00	182
+186	3	NISA's evaluation of TEPCO's interim report on unit 5	2009-07-21 00:00:00	2009-07-22 00:00:00	\N
+188	3	DBEGM validated by NISA	2009-07-21 00:00:00	2009-07-22 00:00:00	186
+190	3	seismic safety of unit 5 reactor building ensured	2009-07-21 00:00:00	2009-07-22 00:00:00	186
+191	3	Methods and values for evaluating the structural strength of equipments and piping systems essential for seismic safety considered adequate	2009-07-21 00:00:00	2009-07-22 00:00:00	186
+192	3	Limited number of structures assessed 	2009-07-21 00:00:00	2009-07-22 00:00:00	260
+193	3	Insufficient seismic backcheck (unit 5) 	2009-07-21 00:00:00	2009-07-22 00:00:00	260
+194	3	future agenda	2009-07-21 00:00:00	2009-07-22 00:00:00	186
+195	3	FEPC and NISA do not confirm the safety of the NPP's facilities	2009-07-21 00:00:00	2009-07-22 00:00:00	\N
+196	3	TEPCO confirms that the seismic safety of [...] whose safety were crucial was ensured	2009-07-21 00:00:00	2009-07-22 00:00:00	260
+198	3	NISA's evaluation of TEPCO's interim report on unit 3	2010-07-26 00:00:00	2010-07-27 00:00:00	\N
+199	3	Insufficient seismic backcheck (unit 3)	2010-07-26 00:00:00	2010-07-27 00:00:00	\N
+201	3	TEPCO in the midst of performic seismic and tsunami safety assessments	2011-03-11 00:00:00	2011-03-15 00:00:00	205
+202	3	Construction plan not laid out 	2011-03-11 00:00:00	2011-03-15 00:00:00	205
+203	3	the evaluations were ongoing, and construction locations, etc. had not been determined.	2011-03-11 00:00:00	2011-03-15 00:00:00	205
+204	3	Seismic backchecks and reinforcements not carried out	2011-03-11 00:00:00	2011-03-15 00:00:00	205
+205	3	Status of backchecks at the time of the accident	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+206	3	TEPCO recognized that some systems required seismic reinforcements	2011-03-11 00:00:00	2011-03-15 00:00:00	260
+207	3	“Systems and Outlook on Implementation of Seismic Reinforcements	2011-02-28 00:00:00	2011-03-29 00:00:00	\N
+208	3	High maximum stress/permissible stress ration on numerous parts	2011-02-28 00:00:00	2011-03-29 00:00:00	260
+209	3	Significant delays in seismic backchecks	2006-01-01 00:00:00	2016-01-01 00:00:00	260
+210	3	No action taken by NISA to speed the progress	2006-01-01 00:00:00	2016-01-01 00:00:00	\N
+211	3	TEPCO not actively making an effort to ensure safety 	2006-01-01 00:00:00	2016-01-01 00:00:00	260
+212	3	Post-accident analysis confirms lack of seismic safety of class S systems of Unit 5	2012-01-01 00:00:00	2014-01-01 00:00:00	\N
+213	3	The Effect of Aging Degradation report	2011-11-29 00:00:00	2012-02-07 00:00:00	227
+214	3	No effect of EGM on aging degradation	2011-11-29 00:00:00	2012-02-07 00:00:00	213
+215	3	degradation events due to aging were not a factor behind the occurrence and escalation of the Fukushima Daiichi Nuclear Power Plant accident	2011-11-29 00:00:00	2012-02-07 00:00:00	213
+218	2	Verification of the effect that aging degradation had on seismic performance	2011-11-29 00:00:00	2012-02-07 00:00:00	213
+220	2	Verification of the effect that the earthquake ground motion had on aging degradation	2011-11-29 00:00:00	2012-02-07 00:00:00	213
+221	3	Conclusion of the report admitting shortcomings in methodology	2011-11-29 00:00:00	2012-02-07 00:00:00	213
+222	3	Strong opposing opinions of experts	2011-11-29 00:00:00	2012-02-07 00:00:00	227
+223	3	Problems in the detection and the treatment of cracks and erosion in the piping 	1970-01-01 00:00:00	2011-03-11 00:00:00	227
+225	3	Need for an actual detailed inspection	2015-01-01 00:00:00	2016-01-01 00:00:00	227
+226	3	Almost critical stress levels found in the 30-year report for unit 1	1999-02-01 00:00:00	1999-03-01 00:00:00	227
+227	3	Unanswered question of the effect of degradation on the occurence or escalation of the accident 	1999-02-01 00:00:00	1999-03-01 00:00:00	\N
+228	3	Seismic vulnerability at the time of accident for B or C class buildings	2011-03-11 00:00:00	2011-03-12 00:00:00	146
+230	3	Plant built at OP + 10m	1970-01-01 00:00:00	1971-01-01 00:00:00	252
+232	3	FEPC to conduct an evaluation of tsunami safety	1993-10-01 00:00:00	1993-11-01 00:00:00	\N
+233	3	Max tide level 0P+3.122	1970-01-01 00:00:00	1971-01-01 00:00:00	251
+234	3	2.5m safety margin	1970-01-01 00:00:00	1971-01-01 00:00:00	252
+235	3	Max tide OP + 3.5m	1994-03-01 00:00:00	1994-04-01 00:00:00	251
+236	3	FEPC conducts tsunami impact evaluation	2000-02-01 00:00:00	2000-03-01 00:00:00	\N
+238	3	JSCE establishes Tsunami Assessment Method	2002-02-01 00:00:00	2002-03-01 00:00:00	271
+239	3	Max tide OP + 5.7	2002-03-01 00:00:00	2002-04-01 00:00:00	251
+240	3	inundation prevention measures for building penetrations, elaborating operation procedures	2002-03-01 00:00:00	2002-04-01 00:00:00	252
+241	3	Pump stops at 120% of the postulated height 	2000-02-01 00:00:00	2000-03-01 00:00:00	252
+242	3	Headquarters for Earthquake Research Promotion publishes long-term evaluation	2002-07-01 00:00:00	2002-08-01 00:00:00	\N
+244	3	Max tide : OP + 15.7 m	2008-05-01 00:00:00	2008-06-01 00:00:00	251
+245	3	Spill overtopping study group	2006-01-01 00:00:00	2006-07-01 00:00:00	\N
+246	3	TEPCO recognizes possibility of core damage	2006-05-11 00:00:00	2006-05-12 00:00:00	260
+247	3	Max tide OP+6.1m	2006-09-01 00:00:00	2006-10-01 00:00:00	251
+248	3	Decision to raise seawater pump motor by Nov 2009	2006-09-01 00:00:00	2009-11-01 00:00:00	252
+249	3	Jogan Tsunami (869)	1970-01-01 00:00:00	1970-01-02 00:00:00	\N
+250	3	Max tide 9.2m	2009-06-01 00:00:00	2009-07-01 00:00:00	251
+251	3	Controversy on Tsunami Risk prevision	1970-01-01 00:00:00	2012-07-01 00:00:00	\N
+252	3	TEPCO response to tsunami Risk	1970-01-01 00:00:00	2012-07-01 00:00:00	\N
+253	3	No substantial actions taken to prevent tsunami risk	2006-01-01 00:00:00	2012-07-01 00:00:00	252
+254	3	TEPCO kknew FDINPP weak to tsunami	2000-01-01 00:00:00	2001-07-01 00:00:00	260
+255	3	Approval by authorities	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+256	3	Hearing of electric utilities regarding Tsunami safety	2006-10-06 00:00:00	2006-10-07 00:00:00	\N
+257	3	Failure of communication at TEPCO	2006-10-06 00:00:00	2006-10-07 00:00:00	\N
+259	3	 Passive attitude of TEPCO towards Tsunami research	1990-01-01 00:00:00	2012-01-01 00:00:00	\N
+260	3	Safety evaluation of nuclear power plants	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+261	3	Countermeasures difficult and expensive	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+262	3	TEPCO disregarding HERP conclusion	2008-01-01 00:00:00	2009-01-01 00:00:00	\N
+263	3	TEPCO calculates high tsunami assumption	2008-05-01 00:00:00	2009-06-01 00:00:00	251
+264	3	NISA recognized possbility of a high tsunami	2009-09-01 00:00:00	2009-10-01 00:00:00	251
+265	3	Measures considered (seawalls, breakwaters, seawater pumps)	2010-08-01 00:00:00	2010-09-01 00:00:00	252
+266	3	Idea of a seawall	2010-08-01 00:00:00	2010-09-01 00:00:00	\N
+267	3	Fukushima Site Tsunami Countermeasure Working Session	2010-08-27 00:00:00	2010-08-28 00:00:00	\N
+268	3	Safety of neighbour population	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+269	3	Second Fukushima Site Tsunami Countermeasure Working Session	2010-12-06 00:00:00	2010-12-07 00:00:00	\N
+270	3	Tsunami Countermeasures for OP + 10 m	2010-12-06 00:00:00	2012-12-07 00:00:00	\N
+271	3	JSCE Tsunami Assessment Method	2002-02-01 00:00:00	2012-10-01 00:00:00	\N
+272	3	Revision of the JSCE Method	2012-10-01 00:00:00	2012-11-01 00:00:00	271
+273	3	No construction plan at the time of accident	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+274	3	NISA giving non-transparent guidance	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+275	3	lack of transparency by NISA and TEPCO	2002-02-01 00:00:00	2002-03-01 00:00:00	\N
+276	3	lack of information for outsiders at the time of the accident	2011-03-11 00:00:00	2011-03-15 00:00:00	281
+277	2	Conditions to respect in the re	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+278	3	Problems with the JSCE method	1970-01-01 00:00:00	2011-03-15 00:00:00	271
+279	3	justness,fairness,openness	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+280	3	lack of information for outsiders	2011-11-01 00:00:00	2011-12-01 00:00:00	281
+281	3	Lack of information for outsiders	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+282	3	Uncertainty on the prevision of tsunami frequency	2002-01-01 00:00:00	2002-02-01 00:00:00	251
+283	3	Weak probability calculations	1970-01-01 00:00:00	2012-02-01 00:00:00	\N
+284	3	TEPCO avoiding clarifying risk	1970-01-01 00:00:00	2012-02-01 00:00:00	\N
+285	3	JSCE Tsunami Evaluation Subcommittee	2003-01-01 00:00:00	2012-02-01 00:00:00	\N
+286	3	Expert judgment	1970-01-01 00:00:00	2012-02-01 00:00:00	\N
+287	3	TEPCO assumption frequency of tsunami is low	2006-09-01 00:00:00	2006-10-01 00:00:00	\N
+288	3	Questionnaire to calculate frequency	2006-09-01 00:00:00	2006-10-01 00:00:00	\N
+289	3	Lack of scientificness	1970-09-01 00:00:00	2012-10-01 00:00:00	\N
+290	3	Projected tsunami frequency too low	2011-03-11 00:00:00	2011-03-15 00:00:00	251
+292	3	Features to stop the reactor	1970-03-11 00:00:00	2011-03-15 00:00:00	\N
+293	3	Features to inject water	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+294	3	Features to remove heat from containment vessel	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+295	3	Features to support safety measures	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+298	3	Containment vessel spray system	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+299	3	Features not working properly	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+300	3	fire-estinguishing pumps Classified level C	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+301	3	Mark I design	1970-01-01 00:00:00	2011-03-15 00:00:00	153
+302	3	Knowledge that the wetwell vent was non optimal	1991-01-01 00:00:00	1992-01-01 00:00:00	\N
+303	3	Wetwell vent kept in operation	1991-01-01 00:00:00	1992-01-01 00:00:00	\N
+304	3	Pipes from the compressed-air cylinder to vent valve classified level C	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+305	3	Vulnerability to power loss 	1970-01-01 00:00:00	2012-01-01 00:00:00	318
+306	3	DGs watersoaked	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+307	3	Insufficient power supply	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+308	3	Vulnerability to a single event	2011-03-11 00:00:00	2011-03-15 00:00:00	318
+309	3	Redundancy of equipment	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+310	3	Switchboard watersoaked	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+311	3	Use of water cannon trucks	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+312	3	Insufficient measurement systems	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+313	3	One engineer oversseing operations	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+314	3	Nuclear Reactor Regulation Law	1970-01-01 00:00:00	2011-03-15 00:00:00	\N
+315	3	Insufficient overseeing of the plant	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+316	3	unimplemented project to redesign the work schedule	2008-03-11 00:00:00	2011-03-15 00:00:00	\N
+317	3	operation manual developed by TEPCO	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+318	3	System vulnerability	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+319	3	manual did not play its role in the accident response	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+320	3	Training at the BTC	2011-03-11 00:00:00	2011-03-15 00:00:00	442
+321	3	TEPCO employees unfamiliar with the IC	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+322	3	Training based on site simulators	1970-01-01 00:00:00	2011-03-15 00:00:00	442
+323	3	trend toward severe accident regulation by regulators	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+324	3	Proactive attitude of operators towards regulation	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+325	3	Fear of lawsuits	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+326	3	administrative guidance with the least impact on existing reactors was proposed	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+327	3	problem of backfitting existing facilities	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+328	3	negociation between operators and regulators	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+329	3	search for a common ground	2010-01-01 00:00:00	2012-03-15 00:00:00	\N
+330	3	United States require IPEEE	1991-01-01 00:00:00	2012-03-16 00:00:00	\N
+331	3	Probability theory	1970-01-01 00:00:00	2012-03-16 00:00:00	\N
+332	3	Only internal events to be assessed using probability theory	2010-01-01 00:00:00	2011-01-01 00:00:00	\N
+333	3	Earthquake PSA	2004-01-01 00:00:00	2005-01-01 00:00:00	\N
+334	3	Japanese plants vulnerable to seismic risk	2004-01-01 00:00:00	2005-01-01 00:00:00	\N
+335	3	Predominance of voluntary countermeasures in Japan	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+336	3	low criteria for voluntary countermeasures	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+337	3	Narrow Coverage of severe accident countermeasures in Japan	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+338	3	Focus on severe accident from internal causes	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+339	3	Wide coverage of severe accident countermeasures implemented in other countries	1970-01-01 00:00:00	2012-01-01 00:00:00	\N
+340	3	5 Tiers Principle	1996-01-01 00:00:00	2012-01-01 00:00:00	\N
+341	3	External and man made events considered	1991-01-01 00:00:00	2012-01-01 00:00:00	\N
+342	3	Delayed implementation of severe accident countermeasures in Japan	1986-01-01 00:00:00	2002-01-01 00:00:00	\N
+343	3	Great Easst Japan Earthquake	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+344	3	Plant lost all its off-site power	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+346	3	Tsunami	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+347	3	Unit 1 lost all power supply	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+348	3	material damage	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+349	3	Flood and debris	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+350	3	Degraded accessibility	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+351	3	Lost of Control Room functions	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+352	3	Spontaneous decisions 	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+353	3	Difficulties to cool down reactor	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+354	3	Use of generator trucks	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+355	3	Plant's Dependance on power supply	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+356	3	Independance of equipment	1970-03-11 00:00:00	2011-03-15 00:00:00	\N
+357	3	Diversity of equipment	1970-03-11 00:00:00	2011-03-15 00:00:00	\N
+358	3	On-site power system	1970-03-11 00:00:00	2011-03-15 00:00:00	\N
+359	3	Off-site power system	1970-03-11 00:00:00	2011-03-15 00:00:00	\N
+360	3	Vulnerability to external events	1970-03-11 00:00:00	2011-03-15 00:00:00	318
+361	3	Seismic vulnerability of the Shin-Fushima Substation	1977-01-01 00:00:00	2011-03-15 00:00:00	\N
+362	3	Incomplete state of information	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+363	3	Tasks to perform on site 	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+364	3	Decision making during the accident	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+365	3	Operation performed in the dark	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+366	3	Delays in the accident response	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+367	3	Communications down	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+368	3	Miscommunication and confusion	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+369	3	Mental Stress	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+370	3	Heavy reliance on outside supplies	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+371	3	Plant not prepared to receive supplies	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+372	3	Water level instrumentation recovery	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+373	3	Personnel trying to determine water level/RCIC status	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+374	3	SCRAM unit 1	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+375	3	Heat exhaust to Main Condenser blocked	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+376	3	IC to regulate pressure	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+377	3	IC stops operating	2011-03-11 00:00:00	2011-03-11 00:00:00	445
+378	3	deterioration of the cooling capability of the reactor core	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+379	3	Water level TAF + 3500mm	2011-03-11 00:00:00	2011-03-11 00:00:00	431
+380	3	pressure instrumentations for the reactor and primary containment vessel normal	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+381	3	Increase radiation  in reactor building of Unit 1	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+382	3	Unit 1 declared off-limits	2011-03-11 00:00:00	2011-04-11 00:00:00	\N
+383	3	started stand-by operation of reactor pressure vessel water injection	2011-03-11 00:00:00	2011-04-11 00:00:00	\N
+384	3	pressure under 0.69MPa	2011-03-11 00:00:00	2011-04-11 00:00:00	436
+385	3	Estimation core melt started	2011-03-11 00:00:00	2011-04-11 00:00:00	444
+386	3	hydrogen build-up	2011-03-11 00:00:00	2011-04-11 00:00:00	433
+387	3	DC restored	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+388	3	Sound of steam from IC	2011-03-11 00:00:00	2011-03-11 00:00:00	445
+389	3	IC capable of depressurizing very quickly	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+390	3	Reactor pressure 6.9MPa	2011-03-11 00:00:00	2011-03-11 00:00:00	436
+391	3	Water level in reactor TAF+200mm	2011-03-11 00:00:00	2011-03-11 00:00:00	431
+392	3	water level gauge erroneous 	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+393	3	Estimation core damaged to a significant extent	2011-03-11 00:00:00	2011-03-11 00:00:00	444
+394	3	Operator informs government	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+395	3	Gaseous radioactive material had been leaking from the primary reactor containment vessel	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+396	3	study by Oak Ridge National Laboratory	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+397	3	Pressure of the containment vessel over design reach 0.6MPa	2011-03-11 00:00:00	2012-03-11 00:00:00	436
+398	3	Unit 1 dangerous	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+401	3	condition of unit deteriorates	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+402	3	Operators exploring venting	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+403	3	Diesel pump out of fuel	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+404	3	water never injected	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+405	3	reactor pressure vessel fails	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+406	3	Gas blown to reator building	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+407	3	Radioactive ariborne material leaked	2011-03-12 00:00:00	2011-03-12 00:00:00	445
+408	3	Workers wear face masks	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+409	3	No effective measures taken 	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+410	3	containment/reactor vessel pressure decline	2011-03-12 00:00:00	2011-03-12 00:00:00	436
+411	3	CCI inside the containment vessel	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+412	3	Water injected from water tank using a fire estinguishing pump	2011-03-12 00:00:00	2011-03-12 00:00:00	463
+413	3	Insufficient flowrate	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+415	3	containment vessel pressure peak	2011-03-12 00:00:00	2011-03-13 00:00:00	\N
+416	3	Reactor dangerous environment	2011-03-12 00:00:00	2011-03-13 00:00:00	\N
+417	3	leak of explosive gases (H CO)	2011-03-12 00:00:00	2011-03-13 00:00:00	\N
+418	3	Minister of METI orders venting	2011-03-12 00:00:00	2011-03-13 00:00:00	\N
+420	3	Opening IC valves troublesome	2011-03-12 00:00:00	2011-03-13 00:00:00	445
+421	3	IC valves Open	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+422	3	Unit 1 reactor building explosion	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+423	3	Debris everywhere	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+424	3	Radiation over 1mSv per hour	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+425	3	fire truck fill unit 1 reactor with seawater	2011-03-12 00:00:00	2011-03-12 00:00:00	463
+426	3	IC status offline	2011-03-12 00:00:00	2011-03-12 00:00:00	437
+427	3	Hydrogen accumulation in IC heat exchangeing tubes	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+428	3	Cicrculation of coolant stopped in IC	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+429	3	possible leakage of coolant from damaged piping	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+431	3	Water level in reactor	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+432	3	Overheated ful rods	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+433	3	Hydrogen production	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+434	3	Lost of IC functionality	2011-03-11 00:00:00	2011-03-15 00:00:00	445
+435	3	SRV steam venting	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+436	3	Vessel pressure	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+437	3	IC status	2011-03-11 00:00:00	2011-03-15 00:00:00	445
+438	3	Operators unable to assess IC status	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+439	3	Technical weaknesses in decisions made and actions taken	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+440	3	Operators inspect IC status	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+441	3	Increase of contamination in the reactor	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+442	3	Training of employees	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+443	3	HPCI disabled	2011-03-11 00:00:00	2011-03-15 00:00:00	445
+444	3	Reactor 1 core meltdown	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+445	3	Failure of the cooling system at Unit 1	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+446	3	Activation of the suppression chamber vents 	2011-03-11 00:00:00	2011-03-15 00:00:00	474
+450	3	Core temperature increase	2011-03-11 00:00:00	2011-03-12 00:00:00	444
+451	3	Zirconium-Water Reaction	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+452	3	Almost 100% of volatile radioactive materials to steam in reactor pressure vessel	1970-01-01 00:00:00	1971-01-01 00:00:00	\N
+453	3	Airtoghtness of the containment vessel breached	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+454	3	leakage of Hydrogen, radiation and vapor	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+455	3	Molten core slumps to the containment vessel floor	2011-03-12 00:00:00	2011-03-12 00:00:00	\N
+456	3	higher than 0.7MPa 	2011-03-12 00:00:00	2011-03-12 00:00:00	436
+457	3	danger of pressure vessel breach	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+458	3	release of radiation in the external environment	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+459	3	Containment vessel pressure	2011-03-11 00:00:00	2011-03-15 00:00:00	\N
+460	3	DW pressure decreased significantly	2011-03-12 00:00:00	2011-03-12 00:00:00	459
+461	3	present seemingly stationary condition	2011-03-15 00:00:00	2011-03-16 00:00:00	\N
+462	3	System to inject water with fire truck installed	2010-06-01 00:00:00	2010-07-01 00:00:00	463
+463	3	Coolant Water Injection using firefighting equipment	2011-03-12 00:00:00	2012-01-01 00:00:00	\N
+464	3	Highly contaminated water leaked into the basement of the reactor building	2011-03-12 00:00:00	2012-01-01 00:00:00	\N
+465	3	Heat could not be discharged to ultimate heat sink	2011-03-12 00:00:00	2012-01-01 00:00:00	\N
+467	3	Vent line valves status	2011-03-11 00:00:00	2011-03-12 00:00:00	474
+468	3	possibility of gas flowing into other systems	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+469	3	Work in darkness	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+470	3	Knowledge of the gravity of the situation	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+471	3	Feeling of urgency communicated to workers	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+473	3	Slow response actions	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+474	3	venting operation	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+475	3	Station black-out case never explored	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+476	3	TEPCO dependant on subcontractors	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+478	3	Seismic measurements	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+479	3	Malfunction of the seismic observation system	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+480	3	Waveform comparison	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+482	3	Plant goes in cyclic loading	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+483	3	"floor response spectrum" amplified	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+484	3	Earthquake stronger than DBEGM	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+485	3	Doubt on maximum acceleration	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+486	3	earthquake response analyses by TEPCO	2011-03-11 00:00:00	2011-03-12 00:00:00	\N
+487	3	field  investigation on unit 5	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+488	3	NISA's conclusion : safety functionality not damaged at any of the units	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+489	3	Aftershocks	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+490	3	additional damage	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+491	3	SBLOCA	2011-03-11 00:00:00	2012-03-12 00:00:00	502
+492	3	Impossibility to investigate	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+493	3	MB and LB LOCA	2011-03-11 00:00:00	2012-03-12 00:00:00	502
+494	3	FTA	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+495	3	plant dynamic behavior analysis code "RELAP5 MOD3.3"	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+497	3	Simulated graphs and acquired values similar	2011-03-11 00:00:00	2012-03-12 00:00:00	\N
+498	3	earthquake did not significant damage to the IC piping, recirculatino piping and main steam piping	2011-03-11 00:00:00	2012-03-12 00:00:00	502
+499	3	Hissing sound heard by workers	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+500	3	Gush of water after the earthquake	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+502	3	Earthquake damage to IC piping	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+503	3	pool water sloshing	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+504	3	Subcontracted workers not interviewed by TEPCO	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+505	3	TEPCO post-accident investigation	2011-03-11 00:00:00	2012-03-11 00:00:00	\N
+507	3	MSIV sudenly closes	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+508	3	Rise in reactor vessel pressure	2011-03-11 00:00:00	2011-03-11 00:00:00	436
+509	3	IC system turned on	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+510	3	first time the IC was used in Unit 1	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+511	3	reactor pressure decreased	2011-03-11 00:00:00	2011-03-11 00:00:00	436
+512	3	Reactor pressure decrease after IC turned in	2011-03-11 00:00:00	2011-03-11 00:00:00	436
+513	3	Second rise of reactor pressure	2011-03-11 00:00:00	2011-03-11 00:00:00	436
+514	3	Manual shut down of IC 	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+515	3	TEPCO explanation : respect of temp change rate	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+516	3	temp change rate not shown in the main control room	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+517	3	no calculations of temp change rate done by workers 	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+518	3	rupture detection device	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+520	3	AC power implies DC power	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+521	3	120 VAC batterie + inverter	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+522	3	Interview of BWR makers	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+523	3	Reactor piping ruptured	2011-03-11 00:00:00	2011-03-11 00:00:00	527
+524	3	Coolant into drywell	2011-03-11 00:00:00	2011-03-11 00:00:00	527
+525	3	coolant moved through venting system	2011-03-11 00:00:00	2011-03-11 00:00:00	527
+526	3	SRV not actuated	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+527	3	Scenario 2	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+528	3	no evidence of SRV functioning	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+529	3	No sounds of SRV	2011-03-11 00:00:00	2011-03-11 00:00:00	\N
+530	3	concept A	1978-01-01 00:00:00	1991-09-03 00:00:00	\N

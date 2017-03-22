@@ -1,0 +1,3030 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="label" attr.type="string" for="edge" id="d3" />
+  <key attr.name="title" attr.type="string" for="node" id="d2" />
+  <key attr.name="end_time" attr.type="string" for="node" id="d1" />
+  <key attr.name="start_time" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="134">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Design framework of the FDINPP</data>
+    </node>
+    <node id="135">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1972 00:00:00</data>
+      <data key="d2">TEPCO unilaterally determine max EGM for safety</data>
+    </node>
+    <node id="136">
+      <data key="d0">01-01-1981 00:00:00</data>
+      <data key="d1">01-01-2006 00:00:00</data>
+      <data key="d2">FDINPP subject to NSC "Regulatory Guide for Reviewing Seismic Design of Nuclear Power Reactor Facilities"</data>
+    </node>
+    <node id="137">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">FDINPP subject to revised NSC Regulatory Guide</data>
+    </node>
+    <node id="138">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1981 00:00:00</data>
+      <data key="d2">Theoric max EGM = 275 Gal</data>
+    </node>
+    <node id="139">
+      <data key="d0">01-01-1981 00:00:00</data>
+      <data key="d1">01-01-2006 00:00:00</data>
+      <data key="d2">Theoric max EGM = 370 Gal</data>
+    </node>
+    <node id="140">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Theoric max EGM = 600 Gal</data>
+    </node>
+    <node id="141">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Initial seismic vulnerability of the FDINPP (1966)</data>
+    </node>
+    <node id="142">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Assumption that FDINPP in a low seismicity zone (1966)</data>
+    </node>
+    <node id="143">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Attached doc 6 of Application Document for a Nuclear Reactor Installment License for the Fukushima Nuclear Power Plant" (01/07/1966)</data>
+    </node>
+    <node id="144">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">outdated research material</data>
+    </node>
+    <node id="145">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">low seismic activity since beginning of observation</data>
+    </node>
+    <node id="146">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Seismic vulerability at the time of the accident </data>
+    </node>
+    <node id="147">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Approval by authorities (1966)</data>
+    </node>
+    <node id="148">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2011 00:00:00</data>
+      <data key="d2">Earthquake science</data>
+    </node>
+    <node id="149">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2011 00:00:00</data>
+      <data key="d2">Seismic vulnerability of FDINPP</data>
+    </node>
+    <node id="150">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Reply of the JAEC Chairman to prime minister (17/11/1966)</data>
+    </node>
+    <node id="151">
+      <data key="d0">01-01-1975 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Knowledge that FDINPP on high seismicity zone</data>
+    </node>
+    <node id="152">
+      <data key="d0">01-01-1975 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Lack of communication between nuclear power research and earthquake science research</data>
+    </node>
+    <node id="153">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">turnkey contract between GE and TEPCO for Unit 1 (1966)</data>
+    </node>
+    <node id="154">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Belief that a spanish plant would be built before (cost, experience)</data>
+    </node>
+    <node id="155">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">All responsibility on GE</data>
+    </node>
+    <node id="156">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Choice of a BWR (1966)</data>
+    </node>
+    <node id="157">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Shared design responsibilities between GE, GETSCO, EBASCO and Japanese manufacturers (1966)</data>
+    </node>
+    <node id="158">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">FDINPP first facility built</data>
+    </node>
+    <node id="159">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Reinforcement of supporting structure</data>
+    </node>
+    <node id="160">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Design specs not respected by GE</data>
+    </node>
+    <node id="161">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Deprivation of space in MARK I type containment vessel</data>
+    </node>
+    <node id="162">
+      <data key="d0">26-03-1971 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Problems at the beginning of commercial operations</data>
+    </node>
+    <node id="163">
+      <data key="d0">26-03-1971 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Stress Corrosion Cracking</data>
+    </node>
+    <node id="164">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1975 00:00:00</data>
+      <data key="d2">Little domestic experience regarding nuclear power</data>
+    </node>
+    <node id="165">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Few standards/benchmarks for safety review</data>
+    </node>
+    <node id="166">
+      <data key="d0">01-01-1978 00:00:00</data>
+      <data key="d1">01-01-1979 00:00:00</data>
+      <data key="d2">establishment of the Regulatory Guide for Reviewing Seismic Design</data>
+    </node>
+    <node id="167">
+      <data key="d0">01-01-1992 00:00:00</data>
+      <data key="d1">01-01-1993 00:00:00</data>
+      <data key="d2">Mandatory backchecks and reports</data>
+    </node>
+    <node id="170">
+      <data key="d0">01-03-1994 00:00:00</data>
+      <data key="d1">01-04-1994 00:00:00</data>
+      <data key="d2">Report of the Results of the Seismic Safety Evaluation</data>
+    </node>
+    <node id="171">
+      <data key="d0">01-03-1994 00:00:00</data>
+      <data key="d1">01-04-1994 00:00:00</data>
+      <data key="d2">Seismic safety concluded</data>
+    </node>
+    <node id="172">
+      <data key="d0">01-03-1994 00:00:00</data>
+      <data key="d1">01-04-1994 00:00:00</data>
+      <data key="d2">Dangeroulsy high stress levels in piping in simulation</data>
+    </node>
+    <node id="175">
+      <data key="d0">01-01-1984 00:00:00</data>
+      <data key="d1">01-01-1985 00:00:00</data>
+      <data key="d2">Insufficient reliability of simulation codes</data>
+    </node>
+    <node id="176">
+      <data key="d0">01-01-1984 00:00:00</data>
+      <data key="d1">01-01-1985 00:00:00</data>
+      <data key="d2">Verification of analysis codes</data>
+    </node>
+    <node id="177">
+      <data key="d0">17-01-1995 00:00:00</data>
+      <data key="d1">18-01-1995 00:00:00</data>
+      <data key="d2">Great Hanshin-Awaji Earthquake</data>
+    </node>
+    <node id="178">
+      <data key="d0">19-09-2006 00:00:00</data>
+      <data key="d1">20-09-2006 00:00:00</data>
+      <data key="d2">NSC released Revised Regulatory Guide </data>
+    </node>
+    <node id="179">
+      <data key="d0">20-09-2006 00:00:00</data>
+      <data key="d1">21-09-2006 00:00:00</data>
+      <data key="d2">NISA request to perform seismic backcheck</data>
+    </node>
+    <node id="180">
+      <data key="d0">20-09-2006 00:00:00</data>
+      <data key="d1">21-09-2006 00:00:00</data>
+      <data key="d2">NISA Backcheck Rule developed</data>
+    </node>
+    <node id="181">
+      <data key="d0">16-07-2007 00:00:00</data>
+      <data key="d1">17-07-2007 00:00:00</data>
+      <data key="d2">Niigata Chuetsu Earthquake</data>
+    </node>
+    <node id="182">
+      <data key="d0">20-08-2007 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Seismic Backchecks at FDINPP</data>
+    </node>
+    <node id="183">
+      <data key="d0">20-08-2007 00:00:00</data>
+      <data key="d1">21-08-2007 00:00:00</data>
+      <data key="d2">Report of the results of the review of the work plan for seismic bachckecks</data>
+    </node>
+    <node id="184">
+      <data key="d0">31-03-2008 00:00:00</data>
+      <data key="d1">01-04-2008 00:00:00</data>
+      <data key="d2">TEPCO interim report of seismic backcheckds on FDINPP5 and FDNNPP4</data>
+    </node>
+    <node id="185">
+      <data key="d0">19-06-2009 00:00:00</data>
+      <data key="d1">20-06-2009 00:00:00</data>
+      <data key="d2">Interim report on seismic backchecks FDINPP1-4</data>
+    </node>
+    <node id="186">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">NISA's evaluation of TEPCO's interim report on unit 5</data>
+    </node>
+    <node id="188">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">DBEGM validated by NISA</data>
+    </node>
+    <node id="190">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">seismic safety of unit 5 reactor building ensured</data>
+    </node>
+    <node id="191">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">Methods and values for evaluating the structural strength of equipments and piping systems essential for seismic safety considered adequate</data>
+    </node>
+    <node id="192">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">Limited number of structures assessed </data>
+    </node>
+    <node id="193">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">Insufficient seismic backcheck (unit 5) </data>
+    </node>
+    <node id="194">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">future agenda</data>
+    </node>
+    <node id="195">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">FEPC and NISA do not confirm the safety of the NPP's facilities</data>
+    </node>
+    <node id="196">
+      <data key="d0">21-07-2009 00:00:00</data>
+      <data key="d1">22-07-2009 00:00:00</data>
+      <data key="d2">TEPCO confirms that the seismic safety of [...] whose safety were crucial was ensured</data>
+    </node>
+    <node id="198">
+      <data key="d0">26-07-2010 00:00:00</data>
+      <data key="d1">27-07-2010 00:00:00</data>
+      <data key="d2">NISA's evaluation of TEPCO's interim report on unit 3</data>
+    </node>
+    <node id="199">
+      <data key="d0">26-07-2010 00:00:00</data>
+      <data key="d1">27-07-2010 00:00:00</data>
+      <data key="d2">Insufficient seismic backcheck (unit 3)</data>
+    </node>
+    <node id="201">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">TEPCO in the midst of performic seismic and tsunami safety assessments</data>
+    </node>
+    <node id="202">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Construction plan not laid out </data>
+    </node>
+    <node id="203">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">the evaluations were ongoing, and construction locations, etc. had not been determined.</data>
+    </node>
+    <node id="204">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Seismic backchecks and reinforcements not carried out</data>
+    </node>
+    <node id="205">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Status of backchecks at the time of the accident</data>
+    </node>
+    <node id="206">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">TEPCO recognized that some systems required seismic reinforcements</data>
+    </node>
+    <node id="207">
+      <data key="d0">28-02-2011 00:00:00</data>
+      <data key="d1">29-03-2011 00:00:00</data>
+      <data key="d2">Systems and Outlook on Implementation of Seismic Reinforcements</data>
+    </node>
+    <node id="208">
+      <data key="d0">28-02-2011 00:00:00</data>
+      <data key="d1">29-03-2011 00:00:00</data>
+      <data key="d2">High maximum stress/permissible stress ration on numerous parts</data>
+    </node>
+    <node id="209">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-01-2016 00:00:00</data>
+      <data key="d2">Significant delays in seismic backchecks</data>
+    </node>
+    <node id="210">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-01-2016 00:00:00</data>
+      <data key="d2">No action taken by NISA to speed the progress</data>
+    </node>
+    <node id="211">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-01-2016 00:00:00</data>
+      <data key="d2">TEPCO not actively making an effort to ensure safety </data>
+    </node>
+    <node id="212">
+      <data key="d0">01-01-2012 00:00:00</data>
+      <data key="d1">01-01-2014 00:00:00</data>
+      <data key="d2">Post-accident analysis confirms lack of seismic safety of class S systems of Unit 5</data>
+    </node>
+    <node id="213">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">The Effect of Aging Degradation report</data>
+    </node>
+    <node id="214">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">No effect of EGM on aging degradation</data>
+    </node>
+    <node id="215">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">degradation events due to aging were not a factor behind the occurrence and escalation of the Fukushima Daiichi Nuclear Power Plant accident</data>
+    </node>
+    <node id="218">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">Verification of the effect that aging degradation had on seismic performance</data>
+    </node>
+    <node id="220">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">Verification of the effect that the earthquake ground motion had on aging degradation</data>
+    </node>
+    <node id="221">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">Conclusion of the report admitting shortcomings in methodology</data>
+    </node>
+    <node id="222">
+      <data key="d0">29-11-2011 00:00:00</data>
+      <data key="d1">07-02-2012 00:00:00</data>
+      <data key="d2">Strong opposing opinions of experts</data>
+    </node>
+    <node id="223">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Problems in the detection and the treatment of cracks and erosion in the piping </data>
+    </node>
+    <node id="225">
+      <data key="d0">01-01-2015 00:00:00</data>
+      <data key="d1">01-01-2016 00:00:00</data>
+      <data key="d2">Need for an actual detailed inspection</data>
+    </node>
+    <node id="226">
+      <data key="d0">01-02-1999 00:00:00</data>
+      <data key="d1">01-03-1999 00:00:00</data>
+      <data key="d2">Almost critical stress levels found in the 30-year report for unit 1</data>
+    </node>
+    <node id="227">
+      <data key="d0">01-02-1999 00:00:00</data>
+      <data key="d1">01-03-1999 00:00:00</data>
+      <data key="d2">Unanswered question of the effect of degradation on the occurence or escalation of the accident </data>
+    </node>
+    <node id="228">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Seismic vulnerability at the time of accident for B or C class buildings</data>
+    </node>
+    <node id="230">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Plant built at OP + 10m</data>
+    </node>
+    <node id="232">
+      <data key="d0">01-10-1993 00:00:00</data>
+      <data key="d1">01-11-1993 00:00:00</data>
+      <data key="d2">FEPC to conduct an evaluation of tsunami safety</data>
+    </node>
+    <node id="233">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Max tide level 0P+3.122</data>
+    </node>
+    <node id="234">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">2.5m safety margin</data>
+    </node>
+    <node id="235">
+      <data key="d0">01-03-1994 00:00:00</data>
+      <data key="d1">01-04-1994 00:00:00</data>
+      <data key="d2">Max tide OP + 3.5m</data>
+    </node>
+    <node id="236">
+      <data key="d0">01-02-2000 00:00:00</data>
+      <data key="d1">01-03-2000 00:00:00</data>
+      <data key="d2">FEPC conducts tsunami impact evaluation</data>
+    </node>
+    <node id="238">
+      <data key="d0">01-02-2002 00:00:00</data>
+      <data key="d1">01-03-2002 00:00:00</data>
+      <data key="d2">JSCE establishes Tsunami Assessment Method</data>
+    </node>
+    <node id="239">
+      <data key="d0">01-03-2002 00:00:00</data>
+      <data key="d1">01-04-2002 00:00:00</data>
+      <data key="d2">Max tide OP + 5.7</data>
+    </node>
+    <node id="240">
+      <data key="d0">01-03-2002 00:00:00</data>
+      <data key="d1">01-04-2002 00:00:00</data>
+      <data key="d2">inundation prevention measures for building penetrations, elaborating operation procedures</data>
+    </node>
+    <node id="241">
+      <data key="d0">01-02-2000 00:00:00</data>
+      <data key="d1">01-03-2000 00:00:00</data>
+      <data key="d2">Pump stops at 120% of the postulated height </data>
+    </node>
+    <node id="242">
+      <data key="d0">01-07-2002 00:00:00</data>
+      <data key="d1">01-08-2002 00:00:00</data>
+      <data key="d2">Headquarters for Earthquake Research Promotion publishes long-term evaluation</data>
+    </node>
+    <node id="244">
+      <data key="d0">01-05-2008 00:00:00</data>
+      <data key="d1">01-06-2008 00:00:00</data>
+      <data key="d2">Max tide : OP + 15.7 m</data>
+    </node>
+    <node id="245">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-07-2006 00:00:00</data>
+      <data key="d2">Spill overtopping study group</data>
+    </node>
+    <node id="246">
+      <data key="d0">11-05-2006 00:00:00</data>
+      <data key="d1">12-05-2006 00:00:00</data>
+      <data key="d2">TEPCO recognizes possibility of core damage</data>
+    </node>
+    <node id="247">
+      <data key="d0">01-09-2006 00:00:00</data>
+      <data key="d1">01-10-2006 00:00:00</data>
+      <data key="d2">Max tide OP+6.1m</data>
+    </node>
+    <node id="248">
+      <data key="d0">01-09-2006 00:00:00</data>
+      <data key="d1">01-11-2009 00:00:00</data>
+      <data key="d2">Decision to raise seawater pump motor by Nov 2009</data>
+    </node>
+    <node id="249">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">02-01-1970 00:00:00</data>
+      <data key="d2">Jogan Tsunami (869)</data>
+    </node>
+    <node id="250">
+      <data key="d0">01-06-2009 00:00:00</data>
+      <data key="d1">01-07-2009 00:00:00</data>
+      <data key="d2">Max tide 9.2m</data>
+    </node>
+    <node id="251">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-07-2012 00:00:00</data>
+      <data key="d2">Controversy on Tsunami Risk prevision</data>
+    </node>
+    <node id="252">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-07-2012 00:00:00</data>
+      <data key="d2">TEPCO response to tsunami Risk</data>
+    </node>
+    <node id="253">
+      <data key="d0">01-01-2006 00:00:00</data>
+      <data key="d1">01-07-2012 00:00:00</data>
+      <data key="d2">No substantial actions taken to prevent tsunami risk</data>
+    </node>
+    <node id="254">
+      <data key="d0">01-01-2000 00:00:00</data>
+      <data key="d1">01-07-2001 00:00:00</data>
+      <data key="d2">TEPCO kknew FDINPP weak to tsunami</data>
+    </node>
+    <node id="255">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Approval by authorities</data>
+    </node>
+    <node id="256">
+      <data key="d0">06-10-2006 00:00:00</data>
+      <data key="d1">07-10-2006 00:00:00</data>
+      <data key="d2">Hearing of electric utilities regarding Tsunami safety</data>
+    </node>
+    <node id="257">
+      <data key="d0">06-10-2006 00:00:00</data>
+      <data key="d1">07-10-2006 00:00:00</data>
+      <data key="d2">Failure of communication at TEPCO</data>
+    </node>
+    <node id="259">
+      <data key="d0">01-01-1990 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2"> Passive attitude of TEPCO towards Tsunami research</data>
+    </node>
+    <node id="260">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Safety evaluation of nuclear power plants</data>
+    </node>
+    <node id="261">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Countermeasures difficult and expensive</data>
+    </node>
+    <node id="262">
+      <data key="d0">01-01-2008 00:00:00</data>
+      <data key="d1">01-01-2009 00:00:00</data>
+      <data key="d2">TEPCO disregarding HERP conclusion</data>
+    </node>
+    <node id="263">
+      <data key="d0">01-05-2008 00:00:00</data>
+      <data key="d1">01-06-2009 00:00:00</data>
+      <data key="d2">TEPCO calculates high tsunami assumption</data>
+    </node>
+    <node id="264">
+      <data key="d0">01-09-2009 00:00:00</data>
+      <data key="d1">01-10-2009 00:00:00</data>
+      <data key="d2">NISA recognized possbility of a high tsunami</data>
+    </node>
+    <node id="265">
+      <data key="d0">01-08-2010 00:00:00</data>
+      <data key="d1">01-09-2010 00:00:00</data>
+      <data key="d2">Measures considered (seawalls, breakwaters, seawater pumps)</data>
+    </node>
+    <node id="266">
+      <data key="d0">01-08-2010 00:00:00</data>
+      <data key="d1">01-09-2010 00:00:00</data>
+      <data key="d2">Idea of a seawall</data>
+    </node>
+    <node id="267">
+      <data key="d0">27-08-2010 00:00:00</data>
+      <data key="d1">28-08-2010 00:00:00</data>
+      <data key="d2">Fukushima Site Tsunami Countermeasure Working Session</data>
+    </node>
+    <node id="268">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Safety of neighbour population</data>
+    </node>
+    <node id="269">
+      <data key="d0">06-12-2010 00:00:00</data>
+      <data key="d1">07-12-2010 00:00:00</data>
+      <data key="d2">Second Fukushima Site Tsunami Countermeasure Working Session</data>
+    </node>
+    <node id="270">
+      <data key="d0">06-12-2010 00:00:00</data>
+      <data key="d1">07-12-2012 00:00:00</data>
+      <data key="d2">Tsunami Countermeasures for OP + 10 m</data>
+    </node>
+    <node id="271">
+      <data key="d0">01-02-2002 00:00:00</data>
+      <data key="d1">01-10-2012 00:00:00</data>
+      <data key="d2">JSCE Tsunami Assessment Method</data>
+    </node>
+    <node id="272">
+      <data key="d0">01-10-2012 00:00:00</data>
+      <data key="d1">01-11-2012 00:00:00</data>
+      <data key="d2">Revision of the JSCE Method</data>
+    </node>
+    <node id="273">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">No construction plan at the time of accident</data>
+    </node>
+    <node id="274">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">NISA giving non-transparent guidance</data>
+    </node>
+    <node id="275">
+      <data key="d0">01-02-2002 00:00:00</data>
+      <data key="d1">01-03-2002 00:00:00</data>
+      <data key="d2">lack of transparency by NISA and TEPCO</data>
+    </node>
+    <node id="276">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">lack of information for outsiders at the time of the accident</data>
+    </node>
+    <node id="277">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Conditions to respect in the re</data>
+    </node>
+    <node id="278">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Problems with the JSCE method</data>
+    </node>
+    <node id="279">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">justness,fairness,openness</data>
+    </node>
+    <node id="280">
+      <data key="d0">01-11-2011 00:00:00</data>
+      <data key="d1">01-12-2011 00:00:00</data>
+      <data key="d2">lack of information for outsiders</data>
+    </node>
+    <node id="281">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Lack of information for outsiders</data>
+    </node>
+    <node id="282">
+      <data key="d0">01-01-2002 00:00:00</data>
+      <data key="d1">01-02-2002 00:00:00</data>
+      <data key="d2">Uncertainty on the prevision of tsunami frequency</data>
+    </node>
+    <node id="283">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-02-2012 00:00:00</data>
+      <data key="d2">Weak probability calculations</data>
+    </node>
+    <node id="284">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-02-2012 00:00:00</data>
+      <data key="d2">TEPCO avoiding clarifying risk</data>
+    </node>
+    <node id="285">
+      <data key="d0">01-01-2003 00:00:00</data>
+      <data key="d1">01-02-2012 00:00:00</data>
+      <data key="d2">JSCE Tsunami Evaluation Subcommittee</data>
+    </node>
+    <node id="286">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-02-2012 00:00:00</data>
+      <data key="d2">Expert judgment</data>
+    </node>
+    <node id="287">
+      <data key="d0">01-09-2006 00:00:00</data>
+      <data key="d1">01-10-2006 00:00:00</data>
+      <data key="d2">TEPCO assumption frequency of tsunami is low</data>
+    </node>
+    <node id="288">
+      <data key="d0">01-09-2006 00:00:00</data>
+      <data key="d1">01-10-2006 00:00:00</data>
+      <data key="d2">Questionnaire to calculate frequency</data>
+    </node>
+    <node id="289">
+      <data key="d0">01-09-1970 00:00:00</data>
+      <data key="d1">01-10-2012 00:00:00</data>
+      <data key="d2">Lack of scientificness</data>
+    </node>
+    <node id="290">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Projected tsunami frequency too low</data>
+    </node>
+    <node id="292">
+      <data key="d0">11-03-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Features to stop the reactor</data>
+    </node>
+    <node id="293">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Features to inject water</data>
+    </node>
+    <node id="294">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Features to remove heat from containment vessel</data>
+    </node>
+    <node id="295">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Features to support safety measures</data>
+    </node>
+    <node id="298">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Containment vessel spray system</data>
+    </node>
+    <node id="299">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Features not working properly</data>
+    </node>
+    <node id="300">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">fire-estinguishing pumps Classified level C</data>
+    </node>
+    <node id="301">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Mark I design</data>
+    </node>
+    <node id="302">
+      <data key="d0">01-01-1991 00:00:00</data>
+      <data key="d1">01-01-1992 00:00:00</data>
+      <data key="d2">Knowledge that the wetwell vent was non optimal</data>
+    </node>
+    <node id="303">
+      <data key="d0">01-01-1991 00:00:00</data>
+      <data key="d1">01-01-1992 00:00:00</data>
+      <data key="d2">Wetwell vent kept in operation</data>
+    </node>
+    <node id="304">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Pipes from the compressed-air cylinder to vent valve classified level C</data>
+    </node>
+    <node id="305">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Vulnerability to power loss </data>
+    </node>
+    <node id="306">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">DGs watersoaked</data>
+    </node>
+    <node id="307">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Insufficient power supply</data>
+    </node>
+    <node id="308">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Vulnerability to a single event</data>
+    </node>
+    <node id="309">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Redundancy of equipment</data>
+    </node>
+    <node id="310">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Switchboard watersoaked</data>
+    </node>
+    <node id="311">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Use of water cannon trucks</data>
+    </node>
+    <node id="312">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Insufficient measurement systems</data>
+    </node>
+    <node id="313">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">One engineer oversseing operations</data>
+    </node>
+    <node id="314">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Nuclear Reactor Regulation Law</data>
+    </node>
+    <node id="315">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Insufficient overseeing of the plant</data>
+    </node>
+    <node id="316">
+      <data key="d0">11-03-2008 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">unimplemented project to redesign the work schedule</data>
+    </node>
+    <node id="317">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">operation manual developed by TEPCO</data>
+    </node>
+    <node id="318">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">System vulnerability</data>
+    </node>
+    <node id="319">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">manual did not play its role in the accident response</data>
+    </node>
+    <node id="320">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Training at the BTC</data>
+    </node>
+    <node id="321">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">TEPCO employees unfamiliar with the IC</data>
+    </node>
+    <node id="322">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Training based on site simulators</data>
+    </node>
+    <node id="323">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">trend toward severe accident regulation by regulators</data>
+    </node>
+    <node id="324">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">Proactive attitude of operators towards regulation</data>
+    </node>
+    <node id="325">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">Fear of lawsuits</data>
+    </node>
+    <node id="326">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">administrative guidance with the least impact on existing reactors was proposed</data>
+    </node>
+    <node id="327">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">problem of backfitting existing facilities</data>
+    </node>
+    <node id="328">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">negociation between operators and regulators</data>
+    </node>
+    <node id="329">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">15-03-2012 00:00:00</data>
+      <data key="d2">search for a common ground</data>
+    </node>
+    <node id="330">
+      <data key="d0">01-01-1991 00:00:00</data>
+      <data key="d1">16-03-2012 00:00:00</data>
+      <data key="d2">United States require IPEEE</data>
+    </node>
+    <node id="331">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">16-03-2012 00:00:00</data>
+      <data key="d2">Probability theory</data>
+    </node>
+    <node id="332">
+      <data key="d0">01-01-2010 00:00:00</data>
+      <data key="d1">01-01-2011 00:00:00</data>
+      <data key="d2">Only internal events to be assessed using probability theory</data>
+    </node>
+    <node id="333">
+      <data key="d0">01-01-2004 00:00:00</data>
+      <data key="d1">01-01-2005 00:00:00</data>
+      <data key="d2">Earthquake PSA</data>
+    </node>
+    <node id="334">
+      <data key="d0">01-01-2004 00:00:00</data>
+      <data key="d1">01-01-2005 00:00:00</data>
+      <data key="d2">Japanese plants vulnerable to seismic risk</data>
+    </node>
+    <node id="335">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Predominance of voluntary countermeasures in Japan</data>
+    </node>
+    <node id="336">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">low criteria for voluntary countermeasures</data>
+    </node>
+    <node id="337">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Narrow Coverage of severe accident countermeasures in Japan</data>
+    </node>
+    <node id="338">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Focus on severe accident from internal causes</data>
+    </node>
+    <node id="339">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Wide coverage of severe accident countermeasures implemented in other countries</data>
+    </node>
+    <node id="340">
+      <data key="d0">01-01-1996 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">5 Tiers Principle</data>
+    </node>
+    <node id="341">
+      <data key="d0">01-01-1991 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">External and man made events considered</data>
+    </node>
+    <node id="342">
+      <data key="d0">01-01-1986 00:00:00</data>
+      <data key="d1">01-01-2002 00:00:00</data>
+      <data key="d2">Delayed implementation of severe accident countermeasures in Japan</data>
+    </node>
+    <node id="343">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Great Easst Japan Earthquake</data>
+    </node>
+    <node id="344">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Plant lost all its off-site power</data>
+    </node>
+    <node id="346">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Tsunami</data>
+    </node>
+    <node id="347">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Unit 1 lost all power supply</data>
+    </node>
+    <node id="348">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">material damage</data>
+    </node>
+    <node id="349">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Flood and debris</data>
+    </node>
+    <node id="350">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Degraded accessibility</data>
+    </node>
+    <node id="351">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Lost of Control Room functions</data>
+    </node>
+    <node id="352">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Spontaneous decisions </data>
+    </node>
+    <node id="353">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Difficulties to cool down reactor</data>
+    </node>
+    <node id="354">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Use of generator trucks</data>
+    </node>
+    <node id="355">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Plant's Dependance on power supply</data>
+    </node>
+    <node id="356">
+      <data key="d0">11-03-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Independance of equipment</data>
+    </node>
+    <node id="357">
+      <data key="d0">11-03-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Diversity of equipment</data>
+    </node>
+    <node id="358">
+      <data key="d0">11-03-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">On-site power system</data>
+    </node>
+    <node id="359">
+      <data key="d0">11-03-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Off-site power system</data>
+    </node>
+    <node id="360">
+      <data key="d0">11-03-1970 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Vulnerability to external events</data>
+    </node>
+    <node id="361">
+      <data key="d0">01-01-1977 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Seismic vulnerability of the Shin-Fushima Substation</data>
+    </node>
+    <node id="362">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Incomplete state of information</data>
+    </node>
+    <node id="363">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Tasks to perform on site </data>
+    </node>
+    <node id="364">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Decision making during the accident</data>
+    </node>
+    <node id="365">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Operation performed in the dark</data>
+    </node>
+    <node id="366">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Delays in the accident response</data>
+    </node>
+    <node id="367">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Communications down</data>
+    </node>
+    <node id="368">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Miscommunication and confusion</data>
+    </node>
+    <node id="369">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Mental Stress</data>
+    </node>
+    <node id="370">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Heavy reliance on outside supplies</data>
+    </node>
+    <node id="371">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Plant not prepared to receive supplies</data>
+    </node>
+    <node id="372">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Water level instrumentation recovery</data>
+    </node>
+    <node id="373">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Personnel trying to determine water level/RCIC status</data>
+    </node>
+    <node id="374">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">SCRAM unit 1</data>
+    </node>
+    <node id="375">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Heat exhaust to Main Condenser blocked</data>
+    </node>
+    <node id="376">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">IC to regulate pressure</data>
+    </node>
+    <node id="377">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">IC stops operating</data>
+    </node>
+    <node id="378">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">deterioration of the cooling capability of the reactor core</data>
+    </node>
+    <node id="379">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Water level TAF + 3500mm</data>
+    </node>
+    <node id="380">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">pressure instrumentations for the reactor and primary containment vessel normal</data>
+    </node>
+    <node id="381">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Increase radiation  in reactor building of Unit 1</data>
+    </node>
+    <node id="382">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-04-2011 00:00:00</data>
+      <data key="d2">Unit 1 declared off-limits</data>
+    </node>
+    <node id="383">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-04-2011 00:00:00</data>
+      <data key="d2">started stand-by operation of reactor pressure vessel water injection</data>
+    </node>
+    <node id="384">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-04-2011 00:00:00</data>
+      <data key="d2">pressure under 0.69MPa</data>
+    </node>
+    <node id="385">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-04-2011 00:00:00</data>
+      <data key="d2">Estimation core melt started</data>
+    </node>
+    <node id="386">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-04-2011 00:00:00</data>
+      <data key="d2">hydrogen build-up</data>
+    </node>
+    <node id="387">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">DC restored</data>
+    </node>
+    <node id="388">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Sound of steam from IC</data>
+    </node>
+    <node id="389">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">IC capable of depressurizing very quickly</data>
+    </node>
+    <node id="390">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Reactor pressure 6.9MPa</data>
+    </node>
+    <node id="391">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Water level in reactor TAF+200mm</data>
+    </node>
+    <node id="392">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">water level gauge erroneous </data>
+    </node>
+    <node id="393">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Estimation core damaged to a significant extent</data>
+    </node>
+    <node id="394">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Operator informs government</data>
+    </node>
+    <node id="395">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Gaseous radioactive material had been leaking from the primary reactor containment vessel</data>
+    </node>
+    <node id="396">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">study by Oak Ridge National Laboratory</data>
+    </node>
+    <node id="397">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">Pressure of the containment vessel over design reach 0.6MPa</data>
+    </node>
+    <node id="398">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">Unit 1 dangerous</data>
+    </node>
+    <node id="401">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">condition of unit deteriorates</data>
+    </node>
+    <node id="402">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Operators exploring venting</data>
+    </node>
+    <node id="403">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Diesel pump out of fuel</data>
+    </node>
+    <node id="404">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">water never injected</data>
+    </node>
+    <node id="405">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">reactor pressure vessel fails</data>
+    </node>
+    <node id="406">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Gas blown to reator building</data>
+    </node>
+    <node id="407">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Radioactive ariborne material leaked</data>
+    </node>
+    <node id="408">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Workers wear face masks</data>
+    </node>
+    <node id="409">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">No effective measures taken </data>
+    </node>
+    <node id="410">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">containment/reactor vessel pressure decline</data>
+    </node>
+    <node id="411">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">CCI inside the containment vessel</data>
+    </node>
+    <node id="412">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Water injected from water tank using a fire estinguishing pump</data>
+    </node>
+    <node id="413">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Insufficient flowrate</data>
+    </node>
+    <node id="415">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">13-03-2011 00:00:00</data>
+      <data key="d2">containment vessel pressure peak</data>
+    </node>
+    <node id="416">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">13-03-2011 00:00:00</data>
+      <data key="d2">Reactor dangerous environment</data>
+    </node>
+    <node id="417">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">13-03-2011 00:00:00</data>
+      <data key="d2">leak of explosive gases (H CO)</data>
+    </node>
+    <node id="418">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">13-03-2011 00:00:00</data>
+      <data key="d2">Minister of METI orders venting</data>
+    </node>
+    <node id="420">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">13-03-2011 00:00:00</data>
+      <data key="d2">Opening IC valves troublesome</data>
+    </node>
+    <node id="421">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">IC valves Open</data>
+    </node>
+    <node id="422">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Unit 1 reactor building explosion</data>
+    </node>
+    <node id="423">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Debris everywhere</data>
+    </node>
+    <node id="424">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Radiation over 1mSv per hour</data>
+    </node>
+    <node id="425">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">fire truck fill unit 1 reactor with seawater</data>
+    </node>
+    <node id="426">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">IC status offline</data>
+    </node>
+    <node id="427">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Hydrogen accumulation in IC heat exchangeing tubes</data>
+    </node>
+    <node id="428">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Cicrculation of coolant stopped in IC</data>
+    </node>
+    <node id="429">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">possible leakage of coolant from damaged piping</data>
+    </node>
+    <node id="431">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Water level in reactor</data>
+    </node>
+    <node id="432">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Overheated ful rods</data>
+    </node>
+    <node id="433">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Hydrogen production</data>
+    </node>
+    <node id="434">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Lost of IC functionality</data>
+    </node>
+    <node id="435">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">SRV steam venting</data>
+    </node>
+    <node id="436">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Vessel pressure</data>
+    </node>
+    <node id="437">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">IC status</data>
+    </node>
+    <node id="438">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Operators unable to assess IC status</data>
+    </node>
+    <node id="439">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Technical weaknesses in decisions made and actions taken</data>
+    </node>
+    <node id="440">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Operators inspect IC status</data>
+    </node>
+    <node id="441">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Increase of contamination in the reactor</data>
+    </node>
+    <node id="442">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Training of employees</data>
+    </node>
+    <node id="443">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">HPCI disabled</data>
+    </node>
+    <node id="444">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Reactor 1 core meltdown</data>
+    </node>
+    <node id="445">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Failure of the cooling system at Unit 1</data>
+    </node>
+    <node id="446">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Activation of the suppression chamber vents </data>
+    </node>
+    <node id="450">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Core temperature increase</data>
+    </node>
+    <node id="451">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Zirconium-Water Reaction</data>
+    </node>
+    <node id="452">
+      <data key="d0">01-01-1970 00:00:00</data>
+      <data key="d1">01-01-1971 00:00:00</data>
+      <data key="d2">Almost 100% of volatile radioactive materials to steam in reactor pressure vessel</data>
+    </node>
+    <node id="453">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Airtoghtness of the containment vessel breached</data>
+    </node>
+    <node id="454">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">leakage of Hydrogen, radiation and vapor</data>
+    </node>
+    <node id="455">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Molten core slumps to the containment vessel floor</data>
+    </node>
+    <node id="456">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">higher than 0.7MPa </data>
+    </node>
+    <node id="457">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">danger of pressure vessel breach</data>
+    </node>
+    <node id="458">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">release of radiation in the external environment</data>
+    </node>
+    <node id="459">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">15-03-2011 00:00:00</data>
+      <data key="d2">Containment vessel pressure</data>
+    </node>
+    <node id="460">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">DW pressure decreased significantly</data>
+    </node>
+    <node id="461">
+      <data key="d0">15-03-2011 00:00:00</data>
+      <data key="d1">16-03-2011 00:00:00</data>
+      <data key="d2">present seemingly stationary condition</data>
+    </node>
+    <node id="462">
+      <data key="d0">01-06-2010 00:00:00</data>
+      <data key="d1">01-07-2010 00:00:00</data>
+      <data key="d2">System to inject water with fire truck installed</data>
+    </node>
+    <node id="463">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Coolant Water Injection using firefighting equipment</data>
+    </node>
+    <node id="464">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Highly contaminated water leaked into the basement of the reactor building</data>
+    </node>
+    <node id="465">
+      <data key="d0">12-03-2011 00:00:00</data>
+      <data key="d1">01-01-2012 00:00:00</data>
+      <data key="d2">Heat could not be discharged to ultimate heat sink</data>
+    </node>
+    <node id="467">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Vent line valves status</data>
+    </node>
+    <node id="468">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">possibility of gas flowing into other systems</data>
+    </node>
+    <node id="469">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Work in darkness</data>
+    </node>
+    <node id="470">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Knowledge of the gravity of the situation</data>
+    </node>
+    <node id="471">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Feeling of urgency communicated to workers</data>
+    </node>
+    <node id="473">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Slow response actions</data>
+    </node>
+    <node id="474">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">venting operation</data>
+    </node>
+    <node id="475">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Station black-out case never explored</data>
+    </node>
+    <node id="476">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">TEPCO dependant on subcontractors</data>
+    </node>
+    <node id="478">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Seismic measurements</data>
+    </node>
+    <node id="479">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Malfunction of the seismic observation system</data>
+    </node>
+    <node id="480">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Waveform comparison</data>
+    </node>
+    <node id="482">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Plant goes in cyclic loading</data>
+    </node>
+    <node id="483">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">floor response spectrum amplified</data>
+    </node>
+    <node id="484">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Earthquake stronger than DBEGM</data>
+    </node>
+    <node id="485">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">Doubt on maximum acceleration</data>
+    </node>
+    <node id="486">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2011 00:00:00</data>
+      <data key="d2">earthquake response analyses by TEPCO</data>
+    </node>
+    <node id="487">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">field  investigation on unit 5</data>
+    </node>
+    <node id="488">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">NISA's conclusion : safety functionality not damaged at any of the units</data>
+    </node>
+    <node id="489">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">Aftershocks</data>
+    </node>
+    <node id="490">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">additional damage</data>
+    </node>
+    <node id="491">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">SBLOCA</data>
+    </node>
+    <node id="492">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">Impossibility to investigate</data>
+    </node>
+    <node id="493">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">MB and LB LOCA</data>
+    </node>
+    <node id="494">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">FTA</data>
+    </node>
+    <node id="495">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">plant dynamic behavior analysis code "RELAP5 MOD3.3"</data>
+    </node>
+    <node id="497">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">Simulated graphs and acquired values similar</data>
+    </node>
+    <node id="498">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">12-03-2012 00:00:00</data>
+      <data key="d2">earthquake did not significant damage to the IC piping, recirculatino piping and main steam piping</data>
+    </node>
+    <node id="499">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">Hissing sound heard by workers</data>
+    </node>
+    <node id="500">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">Gush of water after the earthquake</data>
+    </node>
+    <node id="502">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">Earthquake damage to IC piping</data>
+    </node>
+    <node id="503">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">pool water sloshing</data>
+    </node>
+    <node id="504">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">Subcontracted workers not interviewed by TEPCO</data>
+    </node>
+    <node id="505">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2012 00:00:00</data>
+      <data key="d2">TEPCO post-accident investigation</data>
+    </node>
+    <node id="507">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">MSIV sudenly closes</data>
+    </node>
+    <node id="508">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Rise in reactor vessel pressure</data>
+    </node>
+    <node id="509">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">IC system turned on</data>
+    </node>
+    <node id="510">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">first time the IC was used in Unit 1</data>
+    </node>
+    <node id="511">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">reactor pressure decreased</data>
+    </node>
+    <node id="512">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Reactor pressure decrease after IC turned in</data>
+    </node>
+    <node id="513">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Second rise of reactor pressure</data>
+    </node>
+    <node id="514">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Manual shut down of IC </data>
+    </node>
+    <node id="515">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">TEPCO explanation : respect of temp change rate</data>
+    </node>
+    <node id="516">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">temp change rate not shown in the main control room</data>
+    </node>
+    <node id="517">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">no calculations of temp change rate done by workers </data>
+    </node>
+    <node id="518">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">rupture detection device</data>
+    </node>
+    <node id="520">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">AC power implies DC power</data>
+    </node>
+    <node id="521">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">120 VAC batterie + inverter</data>
+    </node>
+    <node id="522">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Interview of BWR makers</data>
+    </node>
+    <node id="523">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Reactor piping ruptured</data>
+    </node>
+    <node id="524">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Coolant into drywell</data>
+    </node>
+    <node id="525">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">coolant moved through venting system</data>
+    </node>
+    <node id="526">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">SRV not actuated</data>
+    </node>
+    <node id="527">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">Scenario 2</data>
+    </node>
+    <node id="528">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">no evidence of SRV functioning</data>
+    </node>
+    <node id="529">
+      <data key="d0">11-03-2011 00:00:00</data>
+      <data key="d1">11-03-2011 00:00:00</data>
+      <data key="d2">No sounds of SRV</data>
+    </node>
+    <node id="530">
+      <data key="d0">01-01-1978 00:00:00</data>
+      <data key="d1">03-09-1991 00:00:00</data>
+      <data key="d2">concept A</data>
+    </node>
+    <edge source="134" target="300">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="135" target="138">
+      <data key="d3">choice</data>
+    </edge>
+    <edge source="136" target="166">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="138" target="152">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="138" target="147">
+      <data key="d3">compromise/choice</data>
+    </edge>
+    <edge source="138" target="228">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="138" target="142">
+      <data key="d3">compromise/choice</data>
+    </edge>
+    <edge source="139" target="136">
+      <data key="d3">regulation</data>
+    </edge>
+    <edge source="140" target="188">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="141" target="138">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="142" target="144">
+      <data key="d3">reason</data>
+    </edge>
+    <edge source="142" target="145">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="142" target="143">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="143" target="230">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="146" target="164">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="146" target="141">
+      <data key="d3">linked</data>
+    </edge>
+    <edge source="147" target="150">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="149" target="482">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="149" target="483">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="152" target="151">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="153" target="157">
+      <data key="d3">choice/compromise</data>
+    </edge>
+    <edge source="154" target="153">
+      <data key="d3">compromise/choice</data>
+    </edge>
+    <edge source="154" target="156">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="158" target="162">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="159" target="160">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="159" target="138">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="161" target="209">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="161" target="159">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="164" target="155">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="165" target="135">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="167" target="166">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="170" target="167">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="171" target="172">
+      <data key="d3">contradiction</data>
+    </edge>
+    <edge source="172" target="175">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="175" target="176">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="178" target="177">
+      <data key="d3">soc/pol pressure</data>
+    </edge>
+    <edge source="178" target="180">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="179" target="256">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="179" target="178">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="179" target="181">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="179" target="182">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="184" target="192">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="184" target="249">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="184" target="186">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="185" target="192">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="185" target="198">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="190" target="193">
+      <data key="d3">contradiction</data>
+    </edge>
+    <edge source="192" target="193">
+      <data key="d3">judgement</data>
+    </edge>
+    <edge source="192" target="194">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="192" target="195">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="195" target="185">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="195" target="196">
+      <data key="d3">contradiction</data>
+    </edge>
+    <edge source="199" target="192">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="201" target="202">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="201" target="203">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="204" target="201">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="204" target="146">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="206" target="207">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="208" target="488">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="208" target="207">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="209" target="210">
+      <data key="d3">judgment</data>
+    </edge>
+    <edge source="211" target="209">
+      <data key="d3">belief</data>
+    </edge>
+    <edge source="212" target="196">
+      <data key="d3">contradiction</data>
+    </edge>
+    <edge source="215" target="218">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="220" target="214">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="221" target="222">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="225" target="226">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="225" target="213">
+      <data key="d3">contradiction</data>
+    </edge>
+    <edge source="225" target="223">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="228" target="139">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="230" target="147">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="230" target="134">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="233" target="234">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="235" target="232">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="235" target="274">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="238" target="239">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="239" target="274">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="239" target="275">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="240" target="253">
+      <data key="d3">jugement </data>
+    </edge>
+    <edge source="240" target="254">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="240" target="239">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="241" target="236">
+      <data key="d3">explains</data>
+    </edge>
+    <edge source="242" target="262">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="244" target="242">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="244" target="267">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="244" target="263">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="245" target="274">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="246" target="245">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="247" target="178">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="247" target="267">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="247" target="238">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="248" target="247">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="250" target="249">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="253" target="250">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="253" target="245">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="253" target="254">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="253" target="255">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="256" target="274">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="257" target="256">
+      <data key="d3">likn</data>
+    </edge>
+    <edge source="259" target="242">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="260" target="259">
+      <data key="d3">Objectivist assumption</data>
+    </edge>
+    <edge source="260" target="278">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="261" target="244">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="262" target="274">
+      <data key="d3">suscpicion</data>
+    </edge>
+    <edge source="262" target="261">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="263" target="264">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="263" target="249">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="263" target="242">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="265" target="263">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="267" target="266">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="268" target="266">
+      <data key="d3">impact</data>
+    </edge>
+    <edge source="269" target="266">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="269" target="267">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="270" target="269">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="272" target="270">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="273" target="270">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="276" target="362">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="276" target="275">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="278" target="282">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="278" target="255">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="278" target="277">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="278" target="279">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="280" target="278">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="281" target="334">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="282" target="290">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="282" target="283">
+      <data key="d3">belief</data>
+    </edge>
+    <edge source="282" target="285">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="283" target="284">
+      <data key="d3">jugement</data>
+    </edge>
+    <edge source="286" target="282">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="286" target="285">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="287" target="288">
+      <data key="d3">based on</data>
+    </edge>
+    <edge source="287" target="282">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="288" target="289">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="289" target="488">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="289" target="515">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="289" target="283">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="289" target="221">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="292" target="303">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="293" target="298">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="294" target="309">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="298" target="300">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="299" target="298">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="299" target="300">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="299" target="303">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="299" target="304">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="299" target="307">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="299" target="312">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="300" target="336">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="301" target="298">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="303" target="304">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="303" target="302">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="304" target="134">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="305" target="355">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="305" target="322">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="305" target="347">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="305" target="317">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="305" target="303">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="307" target="306">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="307" target="308">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="307" target="309">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="307" target="310">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="307" target="245">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="309" target="311">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="311" target="403">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="311" target="350">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="312" target="336">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="313" target="314">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="315" target="313">
+      <data key="d3">jugement</data>
+    </edge>
+    <edge source="316" target="315">
+      <data key="d3">allusion</data>
+    </edge>
+    <edge source="317" target="320">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="317" target="515">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="317" target="468">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="319" target="317">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="320" target="347">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="321" target="320">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="321" target="439">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="322" target="320">
+      <data key="d3">likn</data>
+    </edge>
+    <edge source="324" target="323">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="324" target="325">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="326" target="255">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="326" target="325">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="326" target="327">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="328" target="329">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="328" target="325">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="328" target="327">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="330" target="332">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="331" target="330">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="332" target="338">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="333" target="331">
+      <data key="d3">ref</data>
+    </edge>
+    <edge source="334" target="333">
+      <data key="d3">porte parole</data>
+    </edge>
+    <edge source="335" target="328">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="335" target="255">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="336" target="335">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="337" target="338">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="337" target="255">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="339" target="337">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="339" target="340">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="339" target="341">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="342" target="337">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="344" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="346" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="347" target="353">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="347" target="346">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="347" target="309">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="347" target="361">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="348" target="346">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="349" target="346">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="350" target="349">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="351" target="320">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="351" target="357">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="351" target="435">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="351" target="309">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="351" target="346">
+      <data key="d3">caus</data>
+    </edge>
+    <edge source="351" target="347">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="352" target="319">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="352" target="475">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="352" target="351">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="354" target="350">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="355" target="347">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="356" target="358">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="356" target="351">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="357" target="462">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="359" target="360">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="360" target="358">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="362" target="351">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="363" target="351">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="364" target="276">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="365" target="363">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="366" target="369">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="366" target="371">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="366" target="365">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="366" target="350">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="366" target="367">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="367" target="347">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="368" target="371">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="368" target="367">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="369" target="351">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="369" target="420">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="369" target="367">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="371" target="370">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="371" target="350">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="371" target="367">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="372" target="379">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="372" target="373">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="373" target="351">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="374" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="375" target="374">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="376" target="374">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="377" target="522">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="377" target="426">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="377" target="347">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="377" target="427">
+      <data key="d3">rasoir d'occam</data>
+    </edge>
+    <edge source="378" target="377">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="382" target="381">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="384" target="383">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="385" target="377">
+      <data key="d3">cause </data>
+    </edge>
+    <edge source="386" target="385">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="386" target="388">
+      <data key="d3">ok</data>
+    </edge>
+    <edge source="388" target="377">
+      <data key="d3">follow</data>
+    </edge>
+    <edge source="388" target="387">
+      <data key="d3">follow</data>
+    </edge>
+    <edge source="390" target="389">
+      <data key="d3">contradiction</data>
+    </edge>
+    <edge source="391" target="379">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="392" target="391">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="393" target="385">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="393" target="395">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="394" target="379">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="395" target="396">
+      <data key="d3">ok</data>
+    </edge>
+    <edge source="397" target="395">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="398" target="397">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="401" target="398">
+      <data key="d3">suite</data>
+    </edge>
+    <edge source="402" target="401">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="402" target="403">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="404" target="377">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="404" target="403">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="405" target="444">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="405" target="404">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="405" target="397">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="406" target="405">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="407" target="406">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="408" target="407">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="410" target="411">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="410" target="405">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="412" target="410">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="413" target="410">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="413" target="412">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="415" target="418">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="416" target="417">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="418" target="416">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="420" target="418">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="420" target="347">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="421" target="426">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="421" target="420">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="422" target="458">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="422" target="434">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="422" target="317">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="422" target="446">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="423" target="422">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="424" target="422">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="425" target="350">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="426" target="387">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="427" target="433">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="428" target="427">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="431" target="450">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="431" target="429">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="431" target="493">
+      <data key="d3">disprove</data>
+    </edge>
+    <edge source="431" target="435">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="431" target="440">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="431" target="443">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="432" target="431">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="433" target="432">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="433" target="451">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="433" target="431">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="434" target="428">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="435" target="459">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="435" target="436">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="437" target="440">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="438" target="347">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="439" target="440">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="439" target="438">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="440" target="441">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="440" target="428">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="441" target="454">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="442" target="439">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="443" target="347">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="444" target="401">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="444" target="385">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="444" target="523">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="444" target="393">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="446" target="457">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="446" target="407">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="451" target="450">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="451" target="431">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="452" target="444">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="453" target="436">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="454" target="317">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="454" target="453">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="454" target="422">
+      <data key="d3">evidence</data>
+    </edge>
+    <edge source="454" target="406">
+      <data key="d3">link </data>
+    </edge>
+    <edge source="455" target="425">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="455" target="444">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="457" target="456">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="457" target="460">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="459" target="465">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="460" target="446">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="461" target="425">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="462" target="309">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="464" target="463">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="467" target="347">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="467" target="435">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="468" target="369">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="468" target="442">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="468" target="435">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="468" target="469">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="469" target="347">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="470" target="442">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="471" target="440">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="471" target="470">
+      <data key="d3">objectivist assumption</data>
+    </edge>
+    <edge source="473" target="474">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="473" target="471">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="475" target="320">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="478" target="479">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="478" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="480" target="478">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="482" target="484">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="483" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="484" target="480">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="485" target="478">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="488" target="485">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="488" target="486">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="488" target="487">
+      <data key="d3">explain</data>
+    </edge>
+    <edge source="489" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="490" target="489">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="491" target="499">
+      <data key="d3">OK</data>
+    </edge>
+    <edge source="491" target="492">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="491" target="518">
+      <data key="d3">ok</data>
+    </edge>
+    <edge source="491" target="431">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="494" target="495">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="497" target="494">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="498" target="494">
+      <data key="d3">prove</data>
+    </edge>
+    <edge source="500" target="492">
+      <data key="d3">doubt</data>
+    </edge>
+    <edge source="500" target="503">
+      <data key="d3">doubt</data>
+    </edge>
+    <edge source="502" target="512">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="502" target="514">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="502" target="500">
+      <data key="d3">doubt</data>
+    </edge>
+    <edge source="502" target="494">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="503" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="504" target="505">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="504" target="500">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="508" target="507">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="509" target="508">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="510" target="509">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="511" target="374">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="512" target="509">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="513" target="514">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="514" target="352">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="514" target="515">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="515" target="516">
+      <data key="d3">disproves</data>
+    </edge>
+    <edge source="515" target="517">
+      <data key="d3">disproves</data>
+    </edge>
+    <edge source="522" target="427">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="523" target="226">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="523" target="343">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="524" target="523">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="525" target="524">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="526" target="528">
+      <data key="d3">link</data>
+    </edge>
+    <edge source="526" target="529">
+      <data key="d3">suspicion</data>
+    </edge>
+    <edge source="526" target="523">
+      <data key="d3">cause</data>
+    </edge>
+    <edge source="527" target="429">
+      <data key="d3">link</data>
+    </edge>
+  </graph>
+</graphml>

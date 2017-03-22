@@ -1,0 +1,6 @@
+repo: 52d3fe303b6fb898c11490ecdb2d7b0492804f3b
+node: efc792fa82de6d93553950792716069df8928b21
+branch: default
+latesttag: undo-0.5.1
+latesttagdistance: 3
+changessincelatesttag: 3
